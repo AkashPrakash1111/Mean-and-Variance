@@ -1,5 +1,8 @@
 #  Exp 1: Mean and variance of a discrete  distribution
 
+## NAME: AKASH PRAKASH
+## REG NO: 212224240008
+
 # Date:25.08.23
 # Aim : 
 
